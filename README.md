@@ -1,6 +1,12 @@
 # Google Play Store App Analytics
 This repository contains code for a data analytics project that analyzes the Google Play Store app market. The objective of the project was to examine the relationship between various factors such as app category, app size, price, ratings, installs, and revenue.
 
+## My Jupyter Notebook
+
+This is my Jupyter Notebook with Plotly visualizations. Click the link below to view it using nbviewer:
+[View Notebook on nbviewer](https://nbviewer.org/github/junghyori/Google-Play-Store-App-Analytics/blob/main/Google%20Play%20Store%20App%20Analytics.ipynb)
+
+
 ## Objectives
 The main objective of this project was to conduct an exploratory data analysis (EDA) of the Google Play Store app market and to answer the following questions:
 
