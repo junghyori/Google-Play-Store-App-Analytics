@@ -3,7 +3,7 @@ This repository contains code for a data analytics project that analyzes the Goo
 
 ## My Jupyter Notebook
 
-This is my Jupyter Notebook with Plotly visualizations. Click the link below to view it using nbviewer:
+This is my Jupyter Notebook with Plotly visualizations, which can not be perfectly rendered on github. Click the link to view it using nbviewer:
 [View Notebook on nbviewer](https://nbviewer.org/github/junghyori/Google-Play-Store-App-Analytics/blob/main/Google%20Play%20Store%20App%20Analytics.ipynb)
 
 
